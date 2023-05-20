@@ -45,7 +45,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Acada Learning - Consultant, Training and Software Development</p>
+<p align=center>JOMACSIT - Consultant, Training and Software Development</p>
 <p align=center><small>Copyrights 2022 by <a href="http://jomacsit.com/">JOMACS</a> </small></p>
 
 </body>
