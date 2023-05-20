@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>AcadaLearning- Home Page</title>
-<link href="images/DP black.png" rel="icon">
+<link href="images/logolapee.png" rel="icon">
 </head>
 </head>
 <body>
