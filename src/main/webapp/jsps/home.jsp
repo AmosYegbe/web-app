@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>AcadaLearning- Home Page</title>
+<title>JOMACSIT- Home Page</title>
 <link href="images/logolapee.png" rel="icon">
 </head>
 </head>
@@ -30,7 +30,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/DP black.png" alt="" width="150">
+		<img src="images/logolapee.png" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
                 JOMACS, 
