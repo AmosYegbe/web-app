@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Acada Learning, Calgary, Canada Office.</h1>
+<h1 align="center">Welcome to JOMACS, Calgary, Canada Office.</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients.
 	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance. God Loves you. Everyone will be hired with multiple job offers, Amen</h1>
 <hr>
@@ -33,12 +33,12 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/DP black.png" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
-                Acada Learning, 
+                JOMACS, 
 		Calgary, Alberta, Canada
-		+1 587 574 2233,
-		info@acadalearning.com
+		+1 587 429 9535,
+		info@jomacsit.com
 		<br>
-		<a href="mailto:info@acadalearning">Mail to Acada Learning</a>
+		<a href="mailto:info@jomacsit">Mail to Jomacsit</a>
 	</span>
 </div>
 <hr>
@@ -46,7 +46,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <hr>
 <p align=center>Acada Learning - Consultant, Training and Software Development</p>
-<p align=center><small>Copyrights 2022 by <a href="http://acadalearning.com/">Acada Learning</a> </small></p>
+<p align=center><small>Copyrights 2022 by <a href="http://jomacsit.com/">JOMACS</a> </small></p>
 
 </body>
 </html>
